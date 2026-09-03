@@ -13,3 +13,16 @@
 3. Lakukan observasi pada pasangan2 graph di bawah untuk mengetahui: Apakah pasangan graph-graph tersebut identik, isomorphic, atau tidak keduanya?
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/b9417bd9-ecc3-4844-b179-0d75c7b9ff07" />
 
+## JAWABAN
+### 1. Algoritma Penyelesaian _Shortest Path_ untuk Graph dari V1 menuju V11:
+a) Djikstra's Algorithm
+-
+b) Bellman-Ford's Algorithm
+-
+c) A* Search Algorithm
+-
+d) Floyd-Warshall’s Algorithm
+-
+e) Johnson’s Algorithm
+-
+
