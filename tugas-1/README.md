@@ -17,12 +17,47 @@
 ### 1. Algoritma Penyelesaian _Shortest Path_ untuk Graph dari V1 menuju V11:
 a) Djikstra's Algorithm
 -
+
 b) Bellman-Ford's Algorithm
 -
+
 c) A* Search Algorithm
 -
+
 d) Floyd-Warshall’s Algorithm
 -
+
 e) Johnson’s Algorithm
+-
+
+### 2. Analisis Kelebihan dan Kekurangan setiap algoritma
+a) Djikstra's Algorithm
+Kelebihan:
+-
+Kekurangan:
+-
+
+b) Bellman-Ford's Algorithm
+Kelebihan:
+-
+Kekurangan:
+-
+
+c) A* Search Algorithm
+Kelebihan:
+-
+Kekurangan:
+-
+
+d) Floyd-Warshall’s Algorithm
+Kelebihan:
+-
+Kekurangan:
+-
+
+e) Johnson’s Algorithm
+Kelebihan:
+-
+Kekurangan:
 -
 
