@@ -31,34 +31,34 @@ d. Floyd-Warshall’s Algorithm
 e. Johnson’s Algorithm
 -
 
-<br>
+<br><br>
 
-### 2. Analisis Kelebihan dan Kekurangan setiap algoritma
-a) Djikstra's Algorithm
+### 2) Analisis Kelebihan dan Kekurangan setiap algoritma
+a. Djikstra's Algorithm
 Kelebihan:
 -
 Kekurangan:
 -
 
-b) Bellman-Ford's Algorithm
+b. Bellman-Ford's Algorithm
 Kelebihan:
 -
 Kekurangan:
 -
 
-c) A* Search Algorithm
+c. A* Search Algorithm
 Kelebihan:
 -
 Kekurangan:
 -
 
-d) Floyd-Warshall’s Algorithm
+d. Floyd-Warshall’s Algorithm
 Kelebihan:
 -
 Kekurangan:
 -
 
-e) Johnson’s Algorithm
+e. Johnson’s Algorithm
 Kelebihan:
 -
 Kekurangan:
