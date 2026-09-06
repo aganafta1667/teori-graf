@@ -1,7 +1,7 @@
 # TUGAS DAN PRAKTIKUM - TEORI GRAF (A)
 
 
-## KELOMPOK 8
+## KELOMPOK 4
 
 |    NRP     |           Nama             |
 | :--------: |       :------------:       |
