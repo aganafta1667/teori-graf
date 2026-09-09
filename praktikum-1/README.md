@@ -1,7 +1,4 @@
-# TUGAS DAN PRAKTIKUM - TEORI GRAF (A)
-
-
-## KELOMPOK 4
+# Praktikum 1 - Mengimplementasikan Program untuk Menyelesaikan Permasalahan “Largest Monotonically Increasing Subsequence” 
 
 |    NRP     |           Nama             |
 | :--------: |       :------------:       |
@@ -9,6 +6,3 @@
 | 5025251067 |     Azka Fairus Syamsa     |
 | 5025251106 |   Asher Yedijah Hoesono    |
 
-## [Tugas 1 - The Fundamental of Graph](https://google.com)
-
-## [Tugas 2 - Tree](https://google.com)
