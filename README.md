@@ -9,6 +9,6 @@
 | 5025251067 |     Azka Fairus Syamsa     |
 | 5025251106 |   Asher Yedijah Hoesono    |
 
-## [Tugas 1 - The Fundamental of Graph](https://google.com)
+## [Tugas 1 - The Fundamental of Graph](/tugas-1/)
 
-## [Tugas 2 - Tree](https://google.com)
+## [Tugas 2 - Tree](/tugas-2/)
