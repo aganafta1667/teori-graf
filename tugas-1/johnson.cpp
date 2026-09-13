@@ -74,13 +74,13 @@ void dijkstra(int startVertex, int targetVertex, int vertexCount, const vector<v
     cout << "Hasil Algoritma Johnson" << endl;
 
     if (distance[targetVertex] == INF) {
-        cout << "Tidak ada rute dari V" << startVertex << " ke V" << targetVertex << endl;
+        cout << "Tidak ada rute dari v" << startVertex << " ke v" << targetVertex << endl;
         return;
     }
 
     long long originalDistance = distance[targetVertex] - h[startVertex] + h[targetVertex];
 
-    cout << "Jarak terpendek V" << startVertex << " ke V" << targetVertex << " = " << originalDistance << endl;
+    cout << "Jarak terpendek v" << startVertex << " ke v" << targetVertex << " = " << originalDistance << endl;
 
     vector<int> path;
 
@@ -96,7 +96,7 @@ void dijkstra(int startVertex, int targetVertex, int vertexCount, const vector<v
     cout << "Rute yang ditempuh: ";
 
     for (int i = 0; i < path.size(); i++) {
-        cout << "V" << path[i];
+        cout << "v" << path[i];
 
         if (i != path.size() - 1) {
             cout << " -> ";
