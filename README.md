@@ -19,3 +19,8 @@
 ### [Source Code](/tugas-2/)
 ### [Laporan Tugas](https://drive.google.com/file/d/17GgQETRx4YK6RTayuqZUJ6v2TZ9wCZdk/view?usp=drive_link)
 <br>
+
+## Praktikum 1 - Implementasikan Program “Largest Monotonically Increasing Subsequence” 
+### [Source Code](/praktikum-1/lmis.cpp)
+### [Laporan Tugas](/praktikum-1/README.md)
+<br>
