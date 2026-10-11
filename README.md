@@ -24,3 +24,8 @@
 ### [Source Code](/praktikum-1/lmis.cpp)
 ### [Laporan Tugas](/praktikum-1/README.md)
 <br>
+
+## Tugas 3 - Graph Traversals
+### [Source Code](/tugas-3/)
+### [Laporan Tugas](https://docs.google.com/document/d/1esXebPbdO6X9g8mJmImlWalHi0Wv-9YX-BzV0X7AEaI/edit?usp=drive_link)
+<br>
