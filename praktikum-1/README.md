@@ -231,6 +231,7 @@ Bilangan        : 4 1 13 7 0 2 8 11 3
 ```
 
 **Output:**
+
 ![Pengujian-1](images/uji-1.png)
 
 **Hasil yang diperoleh:**
@@ -260,6 +261,7 @@ Bilangan        : 3 1 6 13 21 9 14 9
 ```
 
 **Output:**
+
 ![Pengujian-2](images/uji-2.png)
 
 **Hasil yang diperoleh:**
@@ -283,6 +285,7 @@ LMIS yang diperoleh adalah `3 6 13 21` dengan panjang `4`.
 Program diuji menggunakan pilihan `0` untuk memastikan program dapat berhenti dengan benar.
 
 **Output:**
+
 ![Pengujian-3](images/uji-3.png)
 
 Program menampilkan:
