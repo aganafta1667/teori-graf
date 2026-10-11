@@ -27,5 +27,5 @@
 
 ## Tugas 3 - Graph Traversals
 ### [Source Code](/tugas-3/)
-### [Laporan Tugas](https://docs.google.com/document/d/1esXebPbdO6X9g8mJmImlWalHi0Wv-9YX-BzV0X7AEaI/edit?usp=drive_link)
+### [Laporan Tugas](https://drive.google.com/file/d/1S2sPTs6tUY5PqyKGQ_W1hUfpN1YNqwTy/view?usp=drive_link)
 <br>
