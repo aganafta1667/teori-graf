@@ -29,3 +29,7 @@
 ### [Source Code](/tugas-3/)
 ### [Laporan Tugas](https://drive.google.com/file/d/1S2sPTs6tUY5PqyKGQ_W1hUfpN1YNqwTy/view?usp=drive_link)
 <br>
+
+## Tugas 4 - Vector Spaces  & Matrix Repr. of Graph
+### [Laporan Tugas](https://drive.google.com/file/d/15RF8R-VzeROhFMH5WqlpzJkczHGHxVQB/view?usp=sharing)
+<br>
