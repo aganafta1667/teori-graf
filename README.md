@@ -33,3 +33,11 @@
 ## Tugas 4 - Vector Spaces  & Matrix Repr. of Graph
 ### [Laporan Tugas](https://drive.google.com/file/d/15RF8R-VzeROhFMH5WqlpzJkczHGHxVQB/view?usp=sharing)
 <br>
+
+## Tugas 5 - Directed Graph
+### [Laporan Tugas](https://drive.google.com/file/d/14075rhNghCVak8OklnVlhAaX0h2XWh3l/view?usp=sharing)
+<br>
+
+## Tugas 6 - Planarity
+### [Laporan Tugas](https://drive.google.com/file/d/1nFzMoPaZHROUUfQTmH-QD5kcK8wLtEG7/view?usp=sharing)
+<br>
